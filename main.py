@@ -37,4 +37,4 @@ def home():
 def test():
   return 'test success'
 
-app.run()
+# app.run()
